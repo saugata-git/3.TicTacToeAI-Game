@@ -14,11 +14,11 @@
      Java AWT (Abstract Window Toolkit)
      Java Swing
    
-# Algorithms Used         
+# Algorithms used         
       Minimax Algorithm in Game Theory
       Evaluation Function in Game Theory
       
-# Algorithmic Techniques Used 
+# Algorithmic techniques used 
       Recursion
       Backtracking
       

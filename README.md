@@ -1,7 +1,7 @@
 # TicTacToe
    A proper Tic-Tac-Toe AI (Artificial Intelligence) single player game.This AI oponent will consider all possible scenarios and makes the most optimal move to defeat the player.
 # Screenshots  
-  ![ScreenShot](https://raw.github.com/{username}/{repository}/{branch}/{path})
+  ![ScreenShot](https://github.com/saugata001/TicTacToeAI/blob/master/screenshot/a.webm)
 
 # Compilation & executing 
      your system must should have JVM/oracle open jdk installed before compilation of the code.

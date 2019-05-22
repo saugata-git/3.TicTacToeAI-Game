@@ -18,7 +18,7 @@
       Minimax Algorithm in Game Theory
       Evaluation Function in Game Theory
       
-# Algorithmic Techniqe Used in implementation
+# Algorithmic Techniques Used 
       Recursion
       Backtracing
       

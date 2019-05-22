@@ -10,7 +10,7 @@
      compile: javac TicTacToe.java
      execute: java TicTacToe
      
-# Technolgies used
+# Technologies used
      Java AWT (Abstract Window Toolkit)
      Java Swing
    

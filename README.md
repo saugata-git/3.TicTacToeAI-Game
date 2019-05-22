@@ -10,8 +10,8 @@
      execute: java TicTacToe
      
 # Technolgies used
-    Java AWT (Abstract Window Toolkit)
-    Java Swing
+     Java AWT (Abstract Window Toolkit)
+     Java Swing
    
 # Algorithms Used         
       Minimax Algorithm in Game Theory

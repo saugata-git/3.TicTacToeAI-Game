@@ -1,5 +1,6 @@
 # TicTacToe
    A proper Tic-Tac-Toe AI (Artificial Intelligence) single player game.This AI oponent will consider all possible scenarios and makes the most optimal move to defeat the player.
+   
 # Screenshots  
   ![Watch the video](https://github.com/saugata001/TicTacToeAI/blob/master/screenshots/a.gif)
 
@@ -15,6 +16,10 @@
 # Algorithms Used         
       Minimax Algorithm in Game Theory
       Evaluation Function in Game Theory
-         
+      
+# Algorithmic Techniqe Used in implementation
+      Recursion
+      Backtracing
+      
 # References
    https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-3-tic-tac-toe-ai-finding-optimal-move/

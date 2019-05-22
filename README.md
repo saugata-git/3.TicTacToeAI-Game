@@ -3,7 +3,7 @@
 # Screenshots  
   ![Watch the video](https://github.com/saugata001/TicTacToeAI/blob/master/screenshots/a.gif)
 
-# Compilation & executing 
+# Compilation & execution 
      your system must should have JVM/oracle open jdk installed before compilation of the code.
      compile: javac TicTacToe.java
      execute: java TicTacToe

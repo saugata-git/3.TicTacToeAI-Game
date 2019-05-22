@@ -1,4 +1,4 @@
-# TicTacToe
+# TicTacToeAI
    A proper Tic-Tac-Toe AI (Artificial Intelligence) single player game.This AI oponent will consider all possible scenarios and makes the most optimal move to defeat the player.
    
 # Screenshots  

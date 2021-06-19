@@ -6,7 +6,7 @@
   ![Watch the video](https://github.com/saugata001/TicTacToeAI/blob/master/screenshots/a.gif)
 
 # Compilation & execution 
-     your system must should have JVM/oracle open jdk installed before compilation of the code.
+     Your system must should have JVM/oracle open jdk installed before compilation of the code.
      compile: javac TicTacToe.java
      execute: java TicTacToe
      
@@ -18,7 +18,5 @@
       Minimax Algorithm in Game Theory
       Evaluation Function in Game Theory
       
-# Algorithmic techniques used 
-      Recursion
-      Backtracking
+
 
